@@ -5,8 +5,11 @@ Due to GitHub formatting the text again after I have already done so, you'll hav
 Space Station 13 map created in Strong DMM.
 
 If you wish to finish or use any part of this map then you may do so only if you follow these three rules
+
 Rule 1# - The Chaple must contain a highly visible cross (An example cross was placed down by engineering)
+
 Rule 2# - The Chaple must contain a paper with "John 3:16 - For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life." written on it. The paper should be made public in the chaple.
+
 Rule 3# - You may NOT celebrate other religions in the chaple. This rule isn't for the players within a server. This rule is for the map itself and editing it.
 
 **Curent map design philosophy**
@@ -18,29 +21,53 @@ Because of this reason there wouldn't be much dirt or messes on the station as i
 This station can be placed either in space or be used on a jungle planet.
 
 (A) The map contains a large defining hallway down the center of it
+
   (1) This larger hallway was done as an experiment that seems to have worked. I was tired of the small hallways in most stations.
+  
   (2) The main hallway is barren as it is incomplete
+  
   (3) Departures is set to be in the right most portion of the map and arrivals in the left mostz
+  
 (B) Smaller hallways branch off from the main hallway into the other hallways
+
   (1) These hallways lead into public areas or into lobbies of other departments
+  
     (a) A great example would be the engineering or service area
+    
   (2) These branching hallways would also offer a way to travel in the event of the main being destroyed for any reason
+  
 (C) Room sizes
+
   (1) Most rooms on the station should serve a purpose
+  
   (2) Most rooms should have more than enough space to walk around in.
+  
   (3) Don't fill a normal roomm with garbage. Only nessesities. Empty tables are fine.
+  
   (4) This was all done because I hated how cluttered and disorganized most maps were. Also, since I love construction and repurposing rooms as a player, having such small cluttered rooms really hurt my ability to do this.
+  
 (D) Various
+
   (1) All departments recieved a double door airlock system (This is because of you, grey tiders)
+  
   (2) All departments should have several exits into maintanance
+  
     (a) This objective wasn't completed as departments were not yet set in stone. I would have done this in another pass through the map at some later time
+    
   (3) If you have to cram something somewhere it's probably a bad design.
+  
 (F) Maintanence
+
   (1) Maintanence hasn't been worked much
+  
   (2) There was going to be some sort of walkway around the station of a straight maintanence path. It was going to be used as mostly a meteor shield and to get around departments.
+  
   (3) Maint's should be big enough to serve as a place to hide and get lost in, but not big enough you'll never see someone again.
+  
   (4) There is a well maintained hall with cameras leading up to the outer maint tunnel.
+  
   (5) Some departments may contain tiny rooms with maintanence tiles. There should be ladders there but I never placed them.
+  
 (G) Departments that are pulled backa  bit from the main hallway to support other rooms like dorms.
 
   Lastly I wanted to bring up the fact that departments may seem uber compressed.

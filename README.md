@@ -107,3 +107,5 @@ Alright listen, this is the reason there are two map files.
 Version 7 (V7) seems to have some sort of error associated with loading the map. 
 I can't solve this issue but it contains my latest changes.
 If you can figure out to load it then great. I was fixing the medical issue when it decided to stop working. If not, there is version 3 available.
+
+Thank you to Jesus Christ for saving me and giving me rest. Without him this map would have never been created to even this point. I may have even commited suicide.

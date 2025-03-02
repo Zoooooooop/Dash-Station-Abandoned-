@@ -99,6 +99,7 @@ This station can be placed either in space or be used on a jungle planet.
 4. Atmospherics has no way to access it's storage
 5. Atmospherics feels very weird with gas storage being a floor below
 6. Science may need a new layout to include an enterance at the side
+7. The entire AI sattleite doesn't have a location that fits with it's shape. (I was going to bridge to it but then they would need rotated... and thats a lot of work)
 
 **Major Issue**
 

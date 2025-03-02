@@ -32,7 +32,7 @@ This station can be placed either in space or be used on a jungle planet.
 
   (1) These hallways lead into public areas or into lobbies of other departments
   
-    (a) A great example would be the engineering or service area
+    a) A great example would be the engineering or service area
     
   (2) These branching hallways would also offer a way to travel in the event of the main being destroyed for any reason
   
@@ -52,7 +52,7 @@ This station can be placed either in space or be used on a jungle planet.
   
   (2) All departments should have several exits into maintanance
   
-    (a) This objective wasn't completed as departments were not yet set in stone. I would have done this in another pass through the map at some later time
+    a) This objective wasn't completed as departments were not yet set in stone. I would have done this in another pass through the map at some later time
     
   (3) If you have to cram something somewhere it's probably a bad design.
   

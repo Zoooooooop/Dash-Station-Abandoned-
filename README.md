@@ -1,14 +1,17 @@
-# Dash-Station-Abandoned-
+**IMPORTANT - READ FULLY NEXT PARAGRAPH**
+Due to GitHub formatting the text again after I have already done so, you'll have a hard time reading the next sections. Copy this project for yourself and open up this text document there.
+
+# Dash-Station-Abandoned-By Creator
 Space Station 13 map created in Strong DMM.
 
-If you want to finish or complete this map then you are allowed to if you follow these rules
+If you wish to finish or use any part of this map then you may do so only if you follow these three rules
 Rule 1# - The Chaple must contain a highly visible cross (An example cross was placed down by engineering)
 Rule 2# - The Chaple must contain a paper with "John 3:16 - For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life." written on it. The paper should be made public in the chaple.
-Rule 3# - You may NOT celebrate other religions in the chaple. This rule isn't for the players within a server. This rule is for editing the map only.
-
-**Explanation on design choices taken in the map. Also on what was currently done**
+Rule 3# - You may NOT celebrate other religions in the chaple. This rule isn't for the players within a server. This rule is for the map itself and editing it.
 
 **Curent map design philosophy**
+
+Note - This and further sections are **NOT** rules. This is just some concepts of creating that map that I was following. Further sections contain more info.
 
 The idea of this station was to be a brand new state of the art research facility.
 Because of this reason there wouldn't be much dirt or messes on the station as it's brand new.
@@ -57,20 +60,22 @@ This station can be placed either in space or be used on a jungle planet.
 10. Security has a split armory design. Lethals in one area and non lethal in another. Just in case the warden wants to let officers into less than lethal gear.
 11. Security has some heavy weapons (This was going to be a test. To see if they are actually OP or if they can use them balancedly)
 12. Security also has a surplus rifle armory, fit to give arms to the entire station.
-13. Simple medical bay? 
+13. Simple medical bay?
+14. Random laser tag turrts that shoot you if your on the enemy team.
+15. A dead man in the incenerator
 
   **Issues**
 
-1. The medical bay is exceptionally close to the main hallway. Pull it back 
+1. The medical bay is exceptionally close to the main hallway. It needs pulled back to at least engineering's depth. It needs 
+2. Incenerator room might be *too* dirty
+3. Incenerator room is to close to a work area (Even though I'm sure the techs will irradiate it to)
+4. Atmospherics has no way to access it's storage
+5. Atmospherics feels very weird with gas storage being a floor below
+6. Science may need a new layout to include an enterance at the side
 
+**Major Issue**
 
-
-
-
-
-
-
-
-
-
-
+Alright listen, this is the reason there are two map files. 
+Version 7 (V7) seems to have some sort of error associated with loading the map. 
+I can't solve this issue but it contains my latest changes.
+If you can figure out to load it then great. I was fixing the medical issue when it decided to stop working. If not, there is version 3 available.

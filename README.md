@@ -38,6 +38,7 @@ This station can be placed either in space or be used on a jungle planet.
   (3) Maint's should be big enough to serve as a place to hide and get lost in, but not big enough you'll never see someone again.
   (4) There is a well maintained hall with cameras leading up to the outer maint tunnel.
   (5) Some departments may contain tiny rooms with maintanence tiles. There should be ladders there but I never placed them.
+(G) Departments that are pulled backa  bit from the main hallway to support other rooms like dorms.
 
   Lastly I wanted to bring up the fact that departments may seem uber compressed.
   To some extent this is true but I left spaces between all departments for maint access.
@@ -60,7 +61,7 @@ This station can be placed either in space or be used on a jungle planet.
 
   **Issues**
 
-
+1. The medical bay is exceptionally close to the main hallway. Pull it back 
 
 
 

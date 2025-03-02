@@ -44,14 +44,32 @@ This station can be placed either in space or be used on a jungle planet.
   
 **Curent map features**
 
-In no paticular order
-
-1. Cargo has both a lobby and a room to store orders and deliveries in
-2. Cargo actually has a decent sized bay
-3. Cargo also has two **WELL LIT** and **CLEAN** warehouses
-4. Atmospherics has a play room and the main air supply loop. Gas storage is on another Z level with no access yet
-5. Decals and posters are used to warn players of dangers. For example - Turrets in the AI sat or decals saying to stand clear of a blast door. Atmospherics has some.
-6. Engineering has a "RP" panic bunker as their secure storage.
-7. Singulo on another station level
+1. Art has been randomly placed around the station. Players can place more art than ever before and enjoy it more.
+2. Bushes because they are awesome.
+3. Various posters and floor decals to warn about possible dangers. Dangers include blast doors or shutters, incenerator irradiation radius and areas with turrets.
+4. Cargo has both a lobby and a room to store orders and deliveries in (If this wasn't obvious)
+5. Cargo now actually has a decent sized bay
+6. Cargo also has two **WELL LIT** and **CLEAN** warehouses
+7. Atmospherics has a play room and the main air supply loop. Gas storage is on another Z level with no access yet
+8. Engineering has a "RP" panic bunker as their secure storage.
+9. Singulo on another station level, with a grand father clock.
+10. Security has a split armory design. Lethals in one area and non lethal in another. Just in case the warden wants to let officers into less than lethal gear.
+11. Security has some heavy weapons (This was going to be a test. To see if they are actually OP or if they can use them balancedly)
+12. Security also has a surplus rifle armory, fit to give arms to the entire station.
+13. Simple medical bay? 
 
   **Issues**
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -14,25 +14,20 @@ The idea of this station was to be a brand new state of the art research facilit
 Because of this reason there wouldn't be much dirt or messes on the station as it's brand new.
 This station can be placed either in space or be used on a jungle planet.
 
-(1) The map contains a large defining hallway down the center of it
-
-  (A) This larger hallway was done as an experiment that seems to have worked. I was tired of the small hallways in most stations.
-  
-  (B) The main hallway is barren as it is incomplete
-  
-  (C) Departures is set to be in the right most portion of the map and arrivals in the left most
-  
-(2) Smaller hallways branch off from the main hallway into the other hallways.
-
-  (A) These hallways lead into public areas or into lobbies of other departments
-  
-    (a1) A great example would be the engineering or service area
-  (B) These branching hallways would also offer a way to travel in the event of the main being destroyed for any reason
-(3) Room sizes
-  (A) Most rooms on the station should serve a purpose
-  (B) Most rooms should have more than enough space to walk around in.
-  (C)
-    (a1) There should be more than enough space to walk and do your work in. Every part of the station shouldn't feel cramped.
+(A) The map contains a large defining hallway down the center of it
+  (1) This larger hallway was done as an experiment that seems to have worked. I was tired of the small hallways in most stations.
+  (2) The main hallway is barren as it is incomplete
+  (3) Departures is set to be in the right most portion of the map and arrivals in the left mostz
+(B) Smaller hallways branch off from the main hallway into the other hallways
+  (1) These hallways lead into public areas or into lobbies of other departments
+    (a) A great example would be the engineering or service area
+  (2) These branching hallways would also offer a way to travel in the event of the main being destroyed for any reason
+(C) Room sizes
+  (1) Most rooms on the station should serve a purpose
+  (2) Most rooms should have more than enough space to walk around in.
+  (3) Don't fill a normal roomm with garbage. Only nessesities. Empty tables are fine.
+  (4) This was all done because I hated how cluttered and disorganized most maps were.
+    (a) There should be more than enough space to walk and do your work in. Every part of the station shouldn't feel cramped.
 
 
 

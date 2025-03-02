@@ -15,11 +15,17 @@ Because of this reason there wouldn't be much dirt or messes on the station as i
 This station can be placed either in space or be used on a jungle planet.
 
 (1) The map contains a large defining hallway down the center of it
+
   (A) This larger hallway was done as an experiment that seems to have worked. I was tired of the small hallways in most stations.
+  
   (B) The main hallway is barren as it is incomplete
+  
   (C) Departures is set to be in the right most portion of the map and arrivals in the left most
+  
 (2) Smaller hallways branch off from the main hallway into the other hallways.
+
   (A) These hallways lead into public areas or into lobbies of other departments
+  
     (a1) A great example would be the engineering or service area
   (B) These branching hallways would also offer a way to travel in the event of the main being destroyed for any reason
 (3) Room sizes
